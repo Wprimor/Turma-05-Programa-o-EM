@@ -7,7 +7,7 @@ header{
     margin: 60px;
     margin-top: ;
     margin-bottom: 60px;
-    padding: 10px;
+    padding-left: 150px;
     border: 5px solid crimson;
 }
 
@@ -25,7 +25,10 @@ nav ul{
 
 nav li{
     display: inline;
+    margin-left: 200px;
 }
+
+
 
 li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
