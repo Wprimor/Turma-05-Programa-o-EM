@@ -1,8 +1,8 @@
 body{
-    background-color: azure;
+    background-color: aqua;
 }
 header{
-    background-color: lightcoral;
+    background-color: chartreuse
     
     margin: ;
     margin-top: ;
@@ -34,8 +34,8 @@ nav li{
 }
 .texto-principal{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 40px;
-    color: maroon;
+    font-size: 10px;
+    color: blue;
     padding-left: 10px;
     margin: 20px;
 }
