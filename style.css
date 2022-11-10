@@ -59,3 +59,13 @@ li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
+
+.imagem-principal{
+    border: 5px solid violet;
+
+}
+
+#imgagem-principal{
+    border: 5px solid violet;
+
+}
