@@ -17,21 +17,32 @@ header{
     padding-right: ;
 
     border: 5px solid crimson;
-
+    position: fixed;
+    top: 0px ;
+    bottom: ;
+    left: 0px;
+    right: ;
+    width: 100% ;
+    height: 30px;
 }
+
 img{
     display: inline;
 }
+
 nav{
     display: inline;
 }
+
 nav ul{
     display: inline;
 }
+
 nav li{
     display: inline;
     margin-left: 200px ;
 }
+
 .texto-principal{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
@@ -39,6 +50,7 @@ nav li{
     padding-left: 10px;
     margin: 20px;
 }
+
 h1{
     text-align: center;
     margin: 20px;
@@ -49,6 +61,7 @@ h1{
     font-size: 30px;
     margin: 20px;
 }
+
 li::marker {
     font-size: 25px;
     color:black;
@@ -62,14 +75,14 @@ li{
 
 .imagem-principal{
     border: 5px solid violet;
-    position: relative;
-    top: 100px;
+    width: 300px;
+    height: 300px;
+    position: sticky;
+    top: 100px;     
     bottom: ;
-    left: 100px;
-    
+    left: 500px ;
+    right: ;
 }
-
 #imgagem-principal{
-    border: 5px solid violet;
-
+    border: 3px dotted darkviolet;
 }
