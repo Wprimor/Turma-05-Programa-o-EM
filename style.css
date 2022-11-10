@@ -68,21 +68,3 @@ li::marker {
     content: "★";
 }
 
-li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-}
-
-.imagem-principal{
-    border: 5px solid violet;
-    width: 300px;
-    height: 300px;
-    position: sticky;
-    top: 100px;     
-    bottom: ;
-    left: 500px ;
-    right: ;
-}
-#imgagem-principal{
-    border: 3px dotted darkviolet;
-}
